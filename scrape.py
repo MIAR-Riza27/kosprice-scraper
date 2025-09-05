@@ -64,7 +64,14 @@ def load_existing_data(force_update=False):
     data_dir = os.path.join(script_dir, PATHS["data_dir"])
     backup_dir = os.path.join(data_dir, PATHS["backup_folder"])
 
-    return load_backup_data(backup_dir)
+    all_rooms_data, completed_regions = load_backup_data(backup_dir)
+
+    # ADD THIS: Create initial region files from loaded backup data
+    if all_rooms_data:  # Only if we have existing data
+        save_by_regions(all_rooms_data, data_dir)
+        print("📁 Regions folder updated from backup data")
+
+    return all_rooms_data, completed_regions
 
 
 def extract_room_data(new_page, region):
@@ -274,6 +281,14 @@ def scrape(playwright, args):
             time.sleep(random.uniform(10, 20))
 
         print(f"📝 Completed region {region}. Taking a break...")
+        # Save by regions after each region completion
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        data_dir = os.path.join(script_dir, PATHS["data_dir"])
+        save_by_regions(all_rooms_data, data_dir)
+        print(
+            f"📁 Regions folder updated with current data ({len(all_rooms_data)} total records)"
+        )
+
         time.sleep(random.uniform(5, 10))
 
     browser.close()
@@ -299,7 +314,6 @@ if __name__ == "__main__":
     master_filepath = os.path.join(data_dir, PATHS["master_file"])
 
     save_master_file(all_rooms_data, master_filepath)
-    save_by_regions(all_rooms_data, data_dir)
 
     print(f"📊 Total rooms scraped: {len(all_rooms_data)}")
     print("📁 File structure created:")
