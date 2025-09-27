@@ -1,0 +1,3256 @@
+[
+  {
+    "nama_kos": "Kost Singgahsini Putri Omah Sinau Tipe B Plemburan Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Mlati",
+    "rating": "4.8",
+    "jumlah_review": "(47)",
+    "total_transaksi": "105 transaksi berhasil di kos ini",
+    "harga": "Rp1.274.600",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Mlati, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 3.5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "787 m"
+      },
+      {
+        "nama": "Indomaret Damai Barat",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "Catholic Church of The Sacred Family, Banteng",
+        "jarak": "1.6 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "667 m"
+      },
+      {
+        "nama": "Akademi Maritim Yogyakarta",
+        "jarak": "2.6 km"
+      },
+      {
+        "nama": "RS Khusus Bedah Sinduadi",
+        "jarak": "2.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-putri-omah-sinau-tipe-b-plemburan-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:27:48.214873"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Pondok Garini Syariah Tipe B Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.6",
+    "jumlah_review": "(28)",
+    "total_transaksi": "46 transaksi berhasil di kos ini",
+    "harga": "Rp1.785.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Boleh pasutri",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Tamu menginap dikenakan biaya"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "613 m"
+      },
+      {
+        "nama": "Indomaret Damai",
+        "jarak": "2.4 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "957 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "402 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "RSUP Dr. Sardjito",
+        "jarak": "2.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-pondok-garini-syariah-tipe-b-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:27:59.782297"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Pondok Garini Syariah Tipe A Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.9",
+    "jumlah_review": "(10)",
+    "total_transaksi": "21 transaksi berhasil di kos ini",
+    "harga": "Rp1.697.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Boleh pasutri",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Tamu menginap dikenakan biaya"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "613 m"
+      },
+      {
+        "nama": "Indomaret Damai",
+        "jarak": "2.4 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "957 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "402 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "RSUP Dr. Sardjito",
+        "jarak": "2.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-pondok-garini-syariah-tipe-a-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:28:11.098888"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Putri Omah Sinau Tipe A Plemburan Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Mlati",
+    "rating": "4.6",
+    "jumlah_review": "(24)",
+    "total_transaksi": "60 transaksi berhasil di kos ini",
+    "harga": "Rp1.431.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Mlati, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 3.5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "787 m"
+      },
+      {
+        "nama": "Indomaret Damai Barat",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "Catholic Church of The Sacred Family, Banteng",
+        "jarak": "1.6 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "667 m"
+      },
+      {
+        "nama": "Akademi Maritim Yogyakarta",
+        "jarak": "2.6 km"
+      },
+      {
+        "nama": "RS Khusus Bedah Sinduadi",
+        "jarak": "2.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-putri-omah-sinau-tipe-a-plemburan-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:28:22.864065"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Pondok Garini Syariah Tipe D Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.6",
+    "jumlah_review": "(1)",
+    "total_transaksi": "5 transaksi berhasil di kos ini",
+    "harga": "Rp1.722.500",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Shower",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Boleh pasutri",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Tamu menginap dikenakan biaya"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "613 m"
+      },
+      {
+        "nama": "Indomaret Damai",
+        "jarak": "2.4 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "957 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "402 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "RSUP Dr. Sardjito",
+        "jarak": "2.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-pondok-garini-syariah-tipe-d-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:28:32.837800"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Pondok Garini Syariah Tipe C Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.9",
+    "jumlah_review": "(4)",
+    "total_transaksi": "11 transaksi berhasil di kos ini",
+    "harga": "Rp1.722.500",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Boleh pasutri",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Tamu menginap dikenakan biaya"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "613 m"
+      },
+      {
+        "nama": "Indomaret Damai",
+        "jarak": "2.4 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "957 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "402 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "RSUP Dr. Sardjito",
+        "jarak": "2.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-pondok-garini-syariah-tipe-c-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:28:42.877276"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Alpukat Rania Tipe A Condong Catur Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Depok",
+    "rating": "4.9",
+    "jumlah_review": "(31)",
+    "total_transaksi": "48 transaksi berhasil di kos ini",
+    "harga": "Rp1.144.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "2.5 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Ventilasi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Tambah biaya untuk alat elektronik",
+      "Deposit",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Tambah biaya untuk alat elektronik",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "2.8 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Bank Mandiri",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "Universitas Amikom Yogyakarta",
+        "jarak": "720 m"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "155 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putri-eksklusif-kost-singgahsini-alpukat-rania-tipe-a-condong-catur-yogyakarta-1?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:28:54.608099"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Nurdiono House Tipe B Jakal Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Kecamatan Depok",
+    "rating": "4.8",
+    "jumlah_review": "(22)",
+    "total_transaksi": "40 transaksi berhasil di kos ini",
+    "harga": "Rp1.345.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3.5 x 4.5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "R. Tamu",
+        "Laundry",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Boleh pasutri",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya",
+      "Dilarang bawa hewan"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "121 m"
+      },
+      {
+        "nama": "Indomaret Damai",
+        "jarak": "1.9 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "139 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "2.5 km"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "2.1 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putra-eksklusif-kost-singgahsini-nurdiono-house-tipe-b-jakal-yogyakarta-1?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:29:04.087200"
+  },
+  {
+    "nama_kos": "Kost Mas Klimis Tipe Executive Depok Sleman",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "",
+    "jumlah_review": "",
+    "total_transaksi": "24 transaksi berhasil di kos ini",
+    "harga": "Rp2.000.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Ember mandi",
+        "Wastafel",
+        "Shower"
+      ],
+      "umum": [
+        "Dispenser",
+        "WiFi",
+        "Laundry",
+        "Penjaga Kos",
+        "Dispenser",
+        "Balcon"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 3 orang/ kamar",
+      "Boleh pasutri",
+      "Boleh bawa anak",
+      "Akses 24 Jam",
+      "Boleh bawa anak",
+      "Boleh pasutri",
+      "Harga termasuk listrik (sewa harian)",
+      "Maks. 2 orang/ kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "792 m"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "2.3 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "449 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "777 m"
+      },
+      {
+        "nama": "Universitas Amikom Yogyakarta",
+        "jarak": "2.1 km"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "1.4 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-mas-klimis-tipe-executive-depok-sleman-1?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:29:13.957560"
+  },
+  {
+    "nama_kos": "Kost Wisma Yudhistira Tipe A Mlati Sleman Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Mlati",
+    "rating": "4.9",
+    "jumlah_review": "(3)",
+    "total_transaksi": "51 transaksi berhasil di kos ini",
+    "harga": "Rp2.000.000",
+    "periode": "/bulan",
+    "alamat": "Mlati, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Bak mandi"
+      ],
+      "umum": [
+        "Dispenser",
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos",
+        "Laundry"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Akses 24 Jam",
+      "Maks. 1 orang/ kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Rumah Makan Madem",
+        "jarak": "570 m"
+      },
+      {
+        "nama": "Indomaret Damai Barat",
+        "jarak": "3.1 km"
+      },
+      {
+        "nama": "The Star Global Cell Church GKA Yogyakarta",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "327 m"
+      },
+      {
+        "nama": "Akademi Maritim Yogyakarta",
+        "jarak": "1.8 km"
+      },
+      {
+        "nama": "RS Umum Sakina Idaman",
+        "jarak": "1.5 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putra-eksklusif-kost-wisma-yudhistira-tipe-a-mlati-sleman-yogyakarta-1?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:29:24.588836"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Rolas Garden Tipe A Condongcatur Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.8",
+    "jumlah_review": "(12)",
+    "total_transaksi": "32 transaksi berhasil di kos ini",
+    "harga": "Rp1.805.200",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4.5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi",
+        "TV"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "CCTV"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Dilarang bawa hewan",
+      "Denda kerusakan barang kos",
+      "Ada jam malam untuk tamu",
+      "Boleh pasutri"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "814 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "1.7 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "2.4 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "841 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-rolas-garden-tipe-a-condongcatur-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:29:35.340094"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Tapak Dara Tipe B Deresan Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Depok",
+    "rating": "4.6",
+    "jumlah_review": "(8)",
+    "total_transaksi": "19 transaksi berhasil di kos ini",
+    "harga": "Rp1.830.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Ember mandi",
+        "Shower",
+        "Air panas",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu dilarang menginap",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "3.5 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "745 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "RSK Bedah An-Nur",
+        "jarak": "1.4 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putra-eksklusif-kost-singgahsini-tapak-dara-tipe-b-deresan-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:29:47.542691"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Putri Danish Tipe C Gejayan Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Depok",
+    "rating": "4.9",
+    "jumlah_review": "(7)",
+    "total_transaksi": "9 transaksi berhasil di kos ini",
+    "harga": "Rp1.237.500",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Ventilasi"
+      ],
+      "kamar_mandi": [
+        "Kloset Duduk",
+        "K. Mandi Luar",
+        "Ember mandi",
+        "Shower"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Boleh pasutri",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "866 m"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "3.2 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "952 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "2.1 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "999 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-putri-danish-tipe-c-gejayan-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:29:58.226626"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Alpukat Akininda Tipe A Condongcatur Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "5.0",
+    "jumlah_review": "(10)",
+    "total_transaksi": "12 transaksi berhasil di kos ini",
+    "harga": "Rp1.345.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "TV",
+        "Lemari / Storage",
+        "Ventilasi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya",
+      "Wajib ikut piket"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "2.7 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "1.9 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "2.6 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "543 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-apik-alpukat-akininda-tipe-a-condongcatur-yogyakarta-?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:30:09.519383"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Milana Tipe C Pringwulung Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Depok",
+    "rating": "4.8",
+    "jumlah_review": "(7)",
+    "total_transaksi": "16 transaksi berhasil di kos ini",
+    "harga": "Rp1.947.800",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Dapur"
+      ],
+      "parkir": [
+        "Parkir Mobil"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya",
+      "Dilarang bawa hewan"
+    ],
+    "landmarks": [
+      {
+        "nama": "Rumah Makan Ayam Bakar Selaras",
+        "jarak": "507 m"
+      },
+      {
+        "nama": "Circle K Nologaten (Wahid Hasyim)",
+        "jarak": "500 m"
+      },
+      {
+        "nama": "Gereja Kristen Jawa Ambarrukma",
+        "jarak": "936 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "2.3 km"
+      },
+      {
+        "nama": "Akademi Keperawatan Panti Rapih Yogyakarta",
+        "jarak": "412 m"
+      },
+      {
+        "nama": "RSK Bedah An-Nur",
+        "jarak": "1.2 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-milana-tipe-c-pringwulung-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:30:20.475736"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Bae Residence Tipe B Jakal Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Mlati",
+    "rating": "4.6",
+    "jumlah_review": "(42)",
+    "total_transaksi": "101 transaksi berhasil di kos ini",
+    "harga": "Rp1.785.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Mlati, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "416 m"
+      },
+      {
+        "nama": "Indomaret Damai Barat",
+        "jarak": "1.8 km"
+      },
+      {
+        "nama": "Catholic Church of The Sacred Family, Banteng",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "345 m"
+      },
+      {
+        "nama": "Akademi Maritim Yogyakarta",
+        "jarak": "2.9 km"
+      },
+      {
+        "nama": "RS Khusus Bedah Sinduadi",
+        "jarak": "2.4 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putra-eksklusif-kost-singgahsini-bae-residence-tipe-b-jakal-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:30:30.803084"
+  },
+  {
+    "nama_kos": "Kost Telaga Exclusive Depok Sleman",
+    "jenis_kos": "Kos Putra",
+    "area": "Depok",
+    "rating": "5.0",
+    "jumlah_review": "(1)",
+    "total_transaksi": "17 transaksi berhasil di kos ini",
+    "harga": "Rp1.500.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Meja Rias"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Ember mandi",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Ada jam malam",
+      "Ada jam malam untuk tamu",
+      "Denda kerusakan barang kos",
+      "Dilarang bawa hewan",
+      "Dilarang merokok di kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Rumah Makan Karamba",
+        "jarak": "755 m"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "2.5 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.7 km"
+      },
+      {
+        "nama": "Bank Mandiri",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "Universitas Amikom Yogyakarta",
+        "jarak": "949 m"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "253 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putra-eksklusif-kost-telaga-exclusive-depok-sleman-2?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:30:41.312733"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Sakura Karanggayam Sleman Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Depok",
+    "rating": "4.9",
+    "jumlah_review": "(25)",
+    "total_transaksi": "47 transaksi berhasil di kos ini",
+    "harga": "Rp1.260.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos",
+        "Dapur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "398 m"
+      },
+      {
+        "nama": "Indomaret Damai",
+        "jarak": "2.9 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "613 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "673 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "1.6 km"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "1.9 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-sakura-karanggayam-sleman-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:30:52.732107"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Omah Khiar Tipe B Karang Gayam Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "4.8",
+    "jumlah_review": "(13)",
+    "total_transaksi": "25 transaksi berhasil di kos ini",
+    "harga": "Rp1.165.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Ember mandi",
+        "Shower"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Ada jam malam",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Circle K Gejayan",
+        "jarak": "631 m"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "911 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "931 m"
+      },
+      {
+        "nama": "RSK Bedah An-Nur",
+        "jarak": "1.3 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-omah-khiar-tipe-b-karang-gayam-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:31:03.979963"
+  },
+  {
+    "nama_kos": "Kost Singgahsini DCherry Pakuwon Mall Tipe C Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.8",
+    "jumlah_review": "(25)",
+    "total_transaksi": "43 transaksi berhasil di kos ini",
+    "harga": "Rp1.785.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3.2 x 5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "CCTV"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Tidak boleh bawa anak",
+      "Dilarang merokok di kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "1.0 km"
+      },
+      {
+        "nama": "Catholic Church of The Sacred Family, Banteng",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "Bank Mandiri",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Universitas Amikom Yogyakarta",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "912 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-dcherry-pakuwon-mall-tipe-c-yogyakarta-2?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:31:15.187437"
+  },
+  {
+    "nama_kos": "Kost Griya Jagadhita Caturtunggal Depok Sleman Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Depok",
+    "rating": "4.6",
+    "jumlah_review": "(1)",
+    "total_transaksi": "8 transaksi berhasil di kos ini",
+    "harga": "Rp1.700.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "R. Santai"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Akses 24 Jam",
+      "Maks. 1 orang/ kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "437 m"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "2.5 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "511 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "681 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "1.7 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putra-eksklusif-kost-griya-jagadhita-caturtunggal-depok-sleman-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:31:25.433954"
+  },
+  {
+    "nama_kos": "Kost Singgahsini DCherry Pakuwon Mall Tipe A Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.8",
+    "jumlah_review": "(15)",
+    "total_transaksi": "27 transaksi berhasil di kos ini",
+    "harga": "Rp2.049.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3.2 x 5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage",
+        "TV"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu boleh menginap",
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 3 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Tidak boleh bawa anak",
+      "Dilarang merokok di kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu boleh menginap"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "1.0 km"
+      },
+      {
+        "nama": "Catholic Church of The Sacred Family, Banteng",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "Bank Mandiri",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Universitas Amikom Yogyakarta",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "912 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-dcherry-pakuwon-mall-tipe-a-yogyakarta-2?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:31:36.560765"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Kalyana Prime Tipe B Seturan Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Depok",
+    "rating": "4.8",
+    "jumlah_review": "(24)",
+    "total_transaksi": "45 transaksi berhasil di kos ini",
+    "harga": "Rp1.625.000",
+    "periode": "/bulan",
+    "alamat": "Kecamatan Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Mesin Cuci",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya",
+      "Dilarang bawa hewan"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "627 m"
+      },
+      {
+        "nama": "Circle K - Nusa Indah",
+        "jarak": "1.9 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "2.3 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "1.9 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "1.3 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putri-eksklusif-kost-singgahsini-kalyana-prime-tipe-b-seturan-yogyakarta-1?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:31:47.620762"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Putri Maoni Tipe B Gejayan Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Depok",
+    "rating": "4.8",
+    "jumlah_review": "(30)",
+    "total_transaksi": "61 transaksi berhasil di kos ini",
+    "harga": "Rp1.554.500",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas",
+        "R. Santai"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu boleh menginap",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu boleh menginap",
+      "Dilarang bawa hewan"
+    ],
+    "landmarks": [
+      {
+        "nama": "Lapo Hasian \"Rumah Makan Khas Batak Toba\" Yogyakarta",
+        "jarak": "1.4 km"
+      },
+      {
+        "nama": "Circle K Demangan",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "979 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "1.0 km"
+      },
+      {
+        "nama": "RS Siloam Yogyakarta",
+        "jarak": "1.7 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-putri-maoni-tipe-b-gejayan-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:31:59.187397"
+  },
+  {
+    "nama_kos": "Kost Khatarina Residence Depok Sleman",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "5.0",
+    "jumlah_review": "(1)",
+    "total_transaksi": "14 transaksi berhasil di kos ini",
+    "harga": "Rp1.700.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas",
+        "R. Santai"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Akses 24 Jam"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "630 m"
+      },
+      {
+        "nama": "Circle K Nologaten (Wahid Hasyim)",
+        "jarak": "832 m"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "2.3 km"
+      },
+      {
+        "nama": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "1.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putri-eksklusif-kost-khatarina-residence-depok-sleman?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:32:10.201917"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Rumah Putih Tipe A Mlati Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Mlati",
+    "rating": "4.9",
+    "jumlah_review": "(25)",
+    "total_transaksi": "38 transaksi berhasil di kos ini",
+    "harga": "Rp1.402.500",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Mlati, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg 24",
+        "jarak": "567 m"
+      },
+      {
+        "nama": "Indomaret Damai Barat",
+        "jarak": "1.4 km"
+      },
+      {
+        "nama": "Catholic Church of The Sacred Family, Banteng",
+        "jarak": "976 m"
+      },
+      {
+        "nama": "Bank Mandiri",
+        "jarak": "581 m"
+      },
+      {
+        "nama": "Universitas Teknologi Yogyakarta",
+        "jarak": "3.1 km"
+      },
+      {
+        "nama": "RS Khusus Bedah Sinduadi",
+        "jarak": "2.6 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-rumah-putih-tipe-a-mlati-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:32:20.522019"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Rolas Garden Tipe B Condongcatur Yogyakarta",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "4.9",
+    "jumlah_review": "(17)",
+    "total_transaksi": "28 transaksi berhasil di kos ini",
+    "harga": "Rp1.598.200",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3.5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi",
+        "TV"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "CCTV"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Dilarang bawa hewan",
+      "Denda kerusakan barang kos",
+      "Ada jam malam untuk tamu",
+      "Boleh pasutri"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "814 m"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "1.7 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "2.4 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "840 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-singgahsini-rolas-garden-tipe-b-condongcatur-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:32:31.105264"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Griya Moerti Balcony Pandega Padma Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "4.8",
+    "jumlah_review": "(9)",
+    "total_transaksi": "18 transaksi berhasil di kos ini",
+    "harga": "Rp1.972.500",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos",
+        "Laundry"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "678 m"
+      },
+      {
+        "nama": "Indomaret Damai Barat",
+        "jarak": "2.4 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "712 m"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "2.7 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putri-eksklusif-kost-singgahsini-griya-moerti-balcony-pandega-padma-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:32:41.341853"
+  },
+  {
+    "nama_kos": "Kost Griya Alissa Depok Sleman",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "3.5",
+    "jumlah_review": "(5)",
+    "total_transaksi": "",
+    "harga": "Rp1.600.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "5 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Akses 24 Jam",
+      "Maks. 2 orang/ kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "198 m"
+      },
+      {
+        "nama": "Circle K Gatic Condongsari (Korner)",
+        "jarak": "682 m"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.6 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "2.7 km"
+      },
+      {
+        "nama": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+        "jarak": "751 m"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "937 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putri-eksklusif-kost-griya-alissa-depok-sleman?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:32:50.924685"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Kawan Seiring UGM Tipe B Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Depok",
+    "rating": "4.9",
+    "jumlah_review": "(7)",
+    "total_transaksi": "22 transaksi berhasil di kos ini",
+    "harga": "Rp1.819.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3.8 x 3.9 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas",
+        "R. Makan"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor & Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu boleh menginap",
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Denda keterlambatan",
+      "Akses 24 Jam",
+      "Tidak boleh bawa anak",
+      "Dilarang merokok di kamar",
+      "Tidak untuk pasutri",
+      "Lawan jenis dilarang ke kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "362 m"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "130 m"
+      },
+      {
+        "nama": "Masjid Baitul Muhtadin",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "Bank Mandiri",
+        "jarak": "1.4 km"
+      },
+      {
+        "nama": "Universitas Gadjah Mada",
+        "jarak": "1.7 km"
+      },
+      {
+        "nama": "RS Khusus Bedah Sinduadi",
+        "jarak": "2.0 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putra-eksklusif-kost-singgahsini-kawan-seiring-ugm-tipe-b-yogyakarta-2?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:33:03.108303"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Pramesthi UPN Tipe A Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Depok",
+    "rating": "4.5",
+    "jumlah_review": "(15)",
+    "total_transaksi": "27 transaksi berhasil di kos ini",
+    "harga": "Rp1.480.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "K. Mandi Luar",
+        "Ember mandi",
+        "Shower"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Tamu",
+        "Mesin Cuci",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Boleh pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Boleh pasutri",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Lawan jenis dilarang ke kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "671 m"
+      },
+      {
+        "nama": "Circle K",
+        "jarak": "1.8 km"
+      },
+      {
+        "nama": "Gereja Kristen Jawa Ambarrukma",
+        "jarak": "1.5 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "2.7 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "1.7 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "1.8 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putra-eksklusif-kost-singgahsini-pramesthi-upn-tipe-a-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:33:14.196107"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Omah Khiar Tipe D Karang Gayam Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "4.5",
+    "jumlah_review": "(21)",
+    "total_transaksi": "27 transaksi berhasil di kos ini",
+    "harga": "Rp1.431.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Ember mandi",
+        "Shower"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Ada jam malam",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Circle K Gejayan",
+        "jarak": "631 m"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "911 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "931 m"
+      },
+      {
+        "nama": "RSK Bedah An-Nur",
+        "jarak": "1.3 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-omah-khiar-tipe-d-karang-gayam-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:33:24.431015"
+  },
+  {
+    "nama_kos": "Kost The Social Hub Tipe B1 Depok Sleman",
+    "jenis_kos": "Kos Campur",
+    "area": "Depok",
+    "rating": "5.0",
+    "jumlah_review": "(1)",
+    "total_transaksi": "1 transaksi berhasil di kos ini",
+    "harga": "Rp2.000.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "R. Cuci",
+        "Laundry",
+        "Mesin Cuci"
+      ],
+      "parkir": [
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Tamu menginap dikenakan biaya",
+      "Tidak boleh bawa anak",
+      "Dilarang bawa hewan",
+      "Ada jam malam untuk tamu"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "1.3 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "1.7 km"
+      },
+      {
+        "nama": "Masjid El Hasan",
+        "jarak": "2.3 km"
+      },
+      {
+        "nama": "Bank Mandiri UGM",
+        "jarak": "2.2 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "RS Siloam Yogyakarta",
+        "jarak": "1.4 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-campur-eksklusif-kost-the-social-hub-tipe-b1-depok-sleman?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:33:35.911752"
+  },
+  {
+    "nama_kos": "Kost Pondok Bugenvile 1 King Room Depok Sleman",
+    "jenis_kos": "Kos Putra",
+    "area": "Depok",
+    "rating": "5.0",
+    "jumlah_review": "(1)",
+    "total_transaksi": "4 transaksi berhasil di kos ini",
+    "harga": "Rp2.000.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 5 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Meja Rias"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Ember mandi",
+        "Wastafel",
+        "Shower"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "Penjaga Kos"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Akses 24 Jam",
+      "Dilarang bawa hewan",
+      "Kamar hanya bagi penyewa",
+      "Maksimal 2 orang (sewa harian)",
+      "Pasutri wajib membawa surat nikah (sewa harian)"
+    ],
+    "landmarks": [
+      {
+        "nama": "Rumah Makan Madem",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Circle K Anggajaya",
+        "jarak": "1.4 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "749 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Akademi Komunikasi Indonesia YPK",
+        "jarak": "2.6 km"
+      },
+      {
+        "nama": "RSUP Dr. Sardjito",
+        "jarak": "1.9 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putra-eksklusif-kost-pondok-bugenvile-1-king-room-depok-sleman?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:33:46.595727"
+  },
+  {
+    "nama_kos": "Kost Haris Mlati Sleman",
+    "jenis_kos": "Kos Putra",
+    "area": "Mlati",
+    "rating": "4.8",
+    "jumlah_review": "(1)",
+    "total_transaksi": "4 transaksi berhasil di kos ini",
+    "harga": "Rp750.000",
+    "periode": "/bulan",
+    "alamat": "Mlati, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3 meter",
+        "Termasuk listrik"
+      ],
+      "kamar": [
+        "Kasur",
+        "Meja",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "Kloset Duduk",
+        "Kloset Jongkok",
+        "K. Mandi Luar",
+        "Ember mandi",
+        "Bak mandi",
+        "R. Santai"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Akses 24 Jam",
+      "Maks. 1 orang/ kamar"
+    ],
+    "landmarks": [
+      {
+        "nama": "Rumah Makan Madem",
+        "jarak": "649 m"
+      },
+      {
+        "nama": "Indomaret Damai Barat",
+        "jarak": "3.3 km"
+      },
+      {
+        "nama": "The Star Global Cell Church GKA Yogyakarta",
+        "jarak": "1.7 km"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "603 m"
+      },
+      {
+        "nama": "Akademi Maritim Yogyakarta",
+        "jarak": "1.4 km"
+      },
+      {
+        "nama": "RSUP Dr. Sardjito",
+        "jarak": "942 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putra-murah-kost-haris-mlati-sleman-2?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:33:55.925771"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Citra Tipe A UPN Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Kecamatan Ngemplak",
+    "rating": "4.8",
+    "jumlah_review": "(25)",
+    "total_transaksi": "36 transaksi berhasil di kos ini",
+    "harga": "Rp1.222.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Kecamatan Ngemplak, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "R. Tamu",
+        "Penjaga Kos",
+        "Dapur"
+      ],
+      "parkir": [
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Maks. 2 orang/ kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Rumah Makan Karamba",
+        "jarak": "859 m"
+      },
+      {
+        "nama": "Indomaret Plus",
+        "jarak": "2.2 km"
+      },
+      {
+        "nama": "Catholic Church of The Sacred Family, Banteng",
+        "jarak": "2.2 km"
+      },
+      {
+        "nama": "RS Universitas Ahmad Dahlan",
+        "jarak": "1.6 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-singgahsini-citra-tipe-a-upn-yogyakarta-1?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:34:06.361682"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Griya Amira Tipe A Klebengan Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "4.6",
+    "jumlah_review": "(49)",
+    "total_transaksi": "101 transaksi berhasil di kos ini",
+    "harga": "Rp1.611.500",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Kursi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "K. Mandi Luar",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "914 m"
+      },
+      {
+        "nama": "Circle K",
+        "jarak": "766 m"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "918 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "780 m"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "RSK Bedah An-Nur",
+        "jarak": "1.4 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-sleman-kost-putri-eksklusif-kost-singgahsini-griya-amira-tipe-a-klebengan-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:34:17.883282"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Jasmin Tipe B Seturan Yogyakarta",
+    "jenis_kos": "Kos Putra",
+    "area": "Depok",
+    "rating": "4.6",
+    "jumlah_review": "(79)",
+    "total_transaksi": "151 transaksi berhasil di kos ini",
+    "harga": "Rp1.433.000",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "4 x 3 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "TV",
+        "Lemari / Storage"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower",
+        "R. Santai"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Tamu",
+        "Penjaga Kos",
+        "Dapur"
+      ],
+      "parkir": [
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Deposit",
+      "Akses 24 Jam",
+      "Lawan jenis dilarang ke kamar",
+      "Dilarang bawa hewan",
+      "Menunjukan bukti (-) Swab saat check-in"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "342 m"
+      },
+      {
+        "nama": "Circle K Seturan",
+        "jarak": "365 m"
+      },
+      {
+        "nama": "Gereja Kristen Jawa Ambarrukma",
+        "jarak": "2.0 km"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "3.1 km"
+      },
+      {
+        "nama": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+        "jarak": "802 m"
+      },
+      {
+        "nama": "RS Khusus Ibu Anak Sadewa",
+        "jarak": "948 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putra-eksklusif-kost-singgahsini-jasmin-tipe-b-seturan-yogyakarta?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:34:28.258449"
+  },
+  {
+    "nama_kos": "Kost Singgahsini Alpukat Akininda Tipe B Condongcatur Yogyakarta",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "4.9",
+    "jumlah_review": "(13)",
+    "total_transaksi": "22 transaksi berhasil di kos ini",
+    "harga": "Rp1.142.600",
+    "periode": "(Bulan pertama)",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "TV",
+        "Lemari / Storage",
+        "Ventilasi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Shower"
+      ],
+      "umum": [
+        "WiFi",
+        "R. Cuci",
+        "Kulkas",
+        "R. Tamu",
+        "R. Jemur"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor",
+        "Parkir Sepeda"
+      ]
+    },
+    "peraturan": [
+      "Tamu menginap dikenakan biaya",
+      "Tipe ini bisa diisi maks. 2 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Tambah biaya untuk alat elektronik",
+      "Deposit",
+      "Maks. 2 orang/ kamar",
+      "Dilarang merokok di kamar",
+      "Tambah biaya untuk alat elektronik",
+      "Lawan jenis dilarang ke kamar",
+      "Tamu menginap dikenakan biaya"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg & Es Kelapa Muda Mas Kirno",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "2.7 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "1.1 km"
+      },
+      {
+        "nama": "Bank Syariah Indonesia KCP Yogyakarta Kaliurang",
+        "jarak": "1.9 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "2.6 km"
+      },
+      {
+        "nama": "RS Umum Condong Catur",
+        "jarak": "543 m"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-apik-alpukat-akininda-tipe-b-condongcatur-yogyakarta-?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:34:39.153556"
+  },
+  {
+    "nama_kos": "Kost Tempuran Suites Tipe Standard Depok Sleman",
+    "jenis_kos": "Kos Putri",
+    "area": "Depok",
+    "rating": "4.6",
+    "jumlah_review": "(1)",
+    "total_transaksi": "1 transaksi berhasil di kos ini",
+    "harga": "Rp1.850.000",
+    "periode": "/bulan",
+    "alamat": "Depok, Kabupaten Sleman, Jogja",
+    "fasilitas": {
+      "ukuran_listrik": [
+        "3 x 4 meter",
+        "Tidak termasuk listrik"
+      ],
+      "kamar": [
+        "AC",
+        "Kasur",
+        "Meja",
+        "Lemari / Storage",
+        "Ventilasi"
+      ],
+      "kamar_mandi": [
+        "K. Mandi Dalam",
+        "Kloset Duduk",
+        "Wastafel",
+        "Shower",
+        "Air panas"
+      ],
+      "umum": [
+        "WiFi",
+        "Kulkas",
+        "Penjaga Kos",
+        "Dapur",
+        "CCTV"
+      ],
+      "parkir": [
+        "Parkir Mobil",
+        "Parkir Motor"
+      ]
+    },
+    "peraturan": [
+      "Tipe ini bisa diisi maks. 1 orang/ kamar",
+      "Tidak untuk pasutri",
+      "Tidak boleh bawa anak",
+      "Dilarang merokok di kamar",
+      "Lawan jenis dilarang ke kamar",
+      "Kamar hanya bagi penyewa",
+      "Tamu dilarang menginap",
+      "Dilarang bawa hewan"
+    ],
+    "landmarks": [
+      {
+        "nama": "Warteg Al Rizki",
+        "jarak": "998 m"
+      },
+      {
+        "nama": "Alfamart",
+        "jarak": "3.2 km"
+      },
+      {
+        "nama": "Masjid Muslim United",
+        "jarak": "461 m"
+      },
+      {
+        "nama": "BNI Syariah Jalan Kaliurang",
+        "jarak": "1.2 km"
+      },
+      {
+        "nama": "Universitas Negeri Yogyakarta",
+        "jarak": "1.4 km"
+      },
+      {
+        "nama": "RS Jih",
+        "jarak": "1.5 km"
+      }
+    ],
+    "region": "yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia",
+    "url": "https://mamikos.com/room/kost-kabupaten-sleman-kost-putri-eksklusif-kost-tempuran-suites-depok-sleman-2?redirection_source=list%20kos%20result",
+    "scraped_at": "2025-09-27T10:34:48.755411"
+  }
+]

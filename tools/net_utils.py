@@ -1,19 +1,13 @@
-"""Network utilities for connection checking and handling"""
+import socket
+from tools.config import SCRAPER_CONFIG
 
-import requests
 
-
-def check_internet_connection(timeout: int = 5) -> bool:
-    """Quick internet connection check"""
+def check_internet(host="8.8.8.8", port=53, timeout=None):
+    if timeout is None:
+        timeout = SCRAPER_CONFIG.get("internet_check_timeout", 3)
     try:
-        response = requests.get("https://httpbin.org/get", timeout=timeout)
-        return response.status_code == 200
+        socket.setdefaulttimeout(timeout)
+        socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((host, port))
+        return True
     except Exception:
         return False
-
-
-def check_connection_periodically(card_index: int, interval: int = 20) -> bool:
-    """Check connection every N cards"""
-    if card_index % interval == 0 and card_index > 0:
-        return check_internet_connection()
-    return True
