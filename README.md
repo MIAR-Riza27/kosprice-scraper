@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Patchright-2EAD33?style=for-the-badge" alt="Patchright">
   <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge" alt="Web Scraping">
 </p>
 
@@ -23,14 +23,14 @@
 
 ---
 
+
 ## Struktur Folder
 
 ```
-backend/scraper/
+scraper/
 ├── data/
 │   ├── backup/         # Backup otomatis per region
 │   ├── regions/        # Data hasil scrape per region
-│   ├── failed/         # Card gagal scrape setelah retry
 │   └── data-scraper.json # Data master hasil scraping
 ├── tools/
 │   ├── config.py       # Semua konfigurasi scraper
@@ -62,16 +62,11 @@ source .venv/bin/activate
 .venv\Scripts\activate
 ```
 
+
+
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
-# atau manual:
-pip install playwright
-```
-
-### 4. Install Playwright Browsers
-```bash
-playwright install
 ```
 
 ---
@@ -117,11 +112,11 @@ Semua pengaturan utama ada di `tools/config.py`:
 
 ---
 
+
 ## Output Data
 
 - **Per region**: `data/regions/<region>.json`
 - **Backup**: `data/backup/<region>_<round>.json`
-- **Card gagal**: `data/failed/<region>_failed.json`
 - **Master file**: `data/data-scraper.json`
 
 ---
@@ -133,7 +128,7 @@ Semua pengaturan utama ada di `tools/config.py`:
 3. **Deduplication**: Data duplikat di-skip
 4. **Backup otomatis** setiap interval card berhasil
 5. **Retry otomatis** untuk card yang gagal scrape
-6. **Card gagal setelah retry** disimpan ke folder khusus
+6. **Card gagal setelah retry** hanya dicatat di log (tidak ada folder khusus)
 7. **Data master** digabung dan disimpan di `data/data-scraper.json`
 
 ---
@@ -158,7 +153,7 @@ Silakan fork, modifikasi, dan submit PR untuk fitur baru, bugfix, atau dokumenta
 
 - **License**: MIT License
 - **Author**: Muhammad Ibnu Alvariza - [@MIAR-Riza27](https://github.com/MIAR-Riza27)
-- **Tech Stack**: Python, Playwright
+- **Tech Stack**: Python, Patchright
 - **Data Source**: Web scraping (for educational purposes)
 
 ---
