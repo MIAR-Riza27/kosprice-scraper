@@ -10,12 +10,14 @@ from tools.config import SCRAPER_CONFIG, BROWSER_CONFIG, PATHS, SELECTORS
 from tools.cli_utils import parse_args
 from tools.net_utils import check_internet
 from tools import parse_utils
+from tools.selector_utils import detect_room_card_selector, get_room_cards
 from tools.scrape_utils import (
     backup_region,
     save_region,
     save_failed_cards,
     scrape_card_detail,
     retry_failed_cards,
+    generate_master_file,  # <-- tambah import
 )
 
 
@@ -37,7 +39,8 @@ def scrape_mamikos_single(
             no_viewport=BROWSER_CONFIG["no_viewport"],
         )
     )
-    results = []
+    
+    # ❌ REMOVE: results = []  # Tidak perlu lagi accumulate di memory
     seen_keys = set()
 
     backup_interval = (
@@ -54,6 +57,11 @@ def scrape_mamikos_single(
     scroll_pause = SCRAPER_CONFIG.get("scroll_pause", [1 / 3, 2 / 3, 1, 0])
     max_card_retry = SCRAPER_CONFIG.get("max_card_retry", 2)
     duplicate_exit_threshold = SCRAPER_CONFIG.get("duplicate_exit_threshold", 20)
+
+    # Ensure all necessary folders exist
+    for path_key, path_value in PATHS.items():
+        if "folder" in path_key or "dir" in path_key:
+            os.makedirs(path_value, exist_ok=True)
 
     for region in region_list:
         print("+===+ \n \n+===+")
@@ -105,6 +113,7 @@ def scrape_mamikos_single(
             page.goto(url, timeout=SCRAPER_CONFIG["page_timeout"])
         except Exception as e:
             print(f"    X [Error opening region: {e} | URL: {url}]")
+            page.close()
             continue
 
         # Klik load more jika ada
@@ -127,12 +136,18 @@ def scrape_mamikos_single(
             except Exception:
                 break
 
-        page.wait_for_selector(
-            SELECTORS["room_card"],
-            timeout=SCRAPER_CONFIG["load_timeout"],
-            state="attached",
-        )
-        cards = page.locator(SELECTORS["room_card"]).all()
+        # ===============================
+        # DYNAMIC SELECTOR DETECTION
+        # ===============================
+        room_card_selector = detect_room_card_selector(page, SELECTORS, SCRAPER_CONFIG["load_timeout"])
+        if not room_card_selector:
+            print(f"    X [Error: No room cards found in region {region}]")
+            print(f"      Tried selectors: {SELECTORS['room_card_primary']}, {SELECTORS['room_card_fallback']}")
+            page.close()
+            continue
+        
+        # Ambil cards dengan selector yang berhasil
+        cards = get_room_cards(page, room_card_selector)
         print(f"  > Found {len(cards)} cards")
 
         region_results = []
@@ -149,24 +164,26 @@ def scrape_mamikos_single(
                     card, page, scroll_pause, SELECTORS, parse_utils
                 )
                 dedup_key = (
-                    room_data["nama_kos"].strip().lower(),
-                    room_data["area"].strip().lower(),
-                    room_data["alamat"].strip().lower(),
+                    (room_data.get("nama_kos") or "").strip().lower(),
+                    (room_data.get("area") or "").strip().lower(),
+                    (room_data.get("alamat") or "").strip().lower(),
                 )
+                if not all(dedup_key):
+                    print(f"    X [Warning: Data kosong pada field dedup: {dedup_key}]")
                 if dedup and dedup_key in seen_keys:
                     print(
-                        f"    X [DUPLICATE: {room_data['nama_kos']} ({room_data['area']} - {room_data['alamat']})]"
+                        f"    X [DUPLICATE: {room_data.get('nama_kos','')} ({room_data.get('area','')} - {room_data.get('alamat','')})]"
                     )
                     duplicate_count += 1
                     if duplicate_count > duplicate_exit_threshold:
                         print(
-                            "    X [Terlalu banyak duplikat, scraping region dihentikan!]"
+                            "    X [Too much duplicate, stopping region scrape!]"
                         )
                         break
                     continue
                 seen_keys.add(dedup_key)
                 region_results.append(room_data)
-                results.append(room_data)
+                # ❌ REMOVE: results.append(room_data)  # Tidak perlu lagi
                 print(f"    - Scraped data for kos: {room_data['nama_kos']}")
                 if len(region_results) % backup_interval == 0:
                     backup_round += 1
@@ -193,7 +210,7 @@ def scrape_mamikos_single(
                 dedup,
                 seen_keys,
                 region_results,
-                region,  # <-- tambahkan ini
+                region,  
                 backup_interval,
                 backup_round,
                 PATHS["backup_folder"],
@@ -214,7 +231,7 @@ def scrape_mamikos_single(
         page.close()
 
     browser.close()
-    return results
+    # ❌ REMOVE: return results  # Tidak perlu lagi return accumulated data
 
 
 if __name__ == "__main__":
@@ -244,7 +261,8 @@ if __name__ == "__main__":
     # Set headless mode
     BROWSER_CONFIG["headless"] = not args.head
 
-    products = scrape_mamikos_single(
+    # ✅ UPDATED: Call scraper (no return value needed)
+    scrape_mamikos_single(
         region_list,
         force=args.force,
         limit_card=args.limit_card,
@@ -255,21 +273,11 @@ if __name__ == "__main__":
 
     print("+===+ \n \n+===+ \n# Scrape Done ;)")
 
-    output_path = f"{PATHS['data_dir']}/{PATHS['master_file']}"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(products, f, ensure_ascii=False, indent=2)
+    # ✅ NEW: Generate master file dari semua region files
+    total_records = generate_master_file(
+        PATHS["regions_folder"], 
+        PATHS["data_dir"], 
+        PATHS["master_file"]
+    )
 
-    print(f"  * [Data Master: Saved to {output_path}] \n+===+ \n \n+===+")
-
-# ingat:
-# Argumen Command Line (argparse)
-# Deduplication {Selesai}
-# Cek Koneksi Internet {Selesai}
-# Penyimpanan Data Per Region & Backup {Selesai}
-# Memory Cleanup {Selesai}
-# Scraped Timestamp {Selesai}
-# Verbose Logging {menurutku sudah cukup}
-# Save Master File & Struktur Folder Otomatis {sudah ada tinggal dipake}
-# Scrape few / Multi-region Otomatis {Selesai}
-# config {PATHS, SCRAPER_CONFIG, BROWSER_CONFIG, SELECTORS} {Selesai}
-# ---
+    print("\n+===+ \n \n+===+")

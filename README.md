@@ -82,7 +82,7 @@ python scraper.py
 ### Argumen CLI Penting
 | Argumen           | Fungsi                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------|
-| `--region`        | Pilih region tertentu (pisahkan koma)                                                   |
+| `--region`        | Pilih region tertentu (pisahkan spasi)                                                  |
 | `--force`         | Paksa scraping meski file region sudah ada                                              |
 | `--limit-card`    | Batas maksimal card yang di-scrape per region                                           |
 | `--limit-loadmore`| Override jumlah klik load more per region                                               |

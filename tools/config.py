@@ -42,17 +42,19 @@ BROWSER_CONFIG = {
 
 # File paths
 PATHS = {
-    "data_dir": "backend/scraper/data",  # Folder utama data
-    "backup_folder": "backend/scraper/data/backup",  # Folder backup otomatis
-    "regions_folder": "backend/scraper/data/regions",  # Folder data per region
+    "data_dir": "data",  # Folder utama data
+    "backup_folder": "data/backup",  # Folder backup otomatis
+    "regions_folder": "data/regions",  # Folder data per region
     "master_file": "data-scraper.json",  # Nama file data utama
-    "failed_cards_folder": "backend/scraper/data/failed",  # Folder untuk simpan card gagal setelah retry
+    "failed_cards_folder": "data/failed",  # Folder untuk simpan card gagal setelah retry
 }
 
 # CSS Selectors
 SELECTORS = {
     "load_more_link": "a.list__content-load-link",
-    "room_card": 'div[data-testid="roomCard"]',
+    # Multiple room card selectors for fallback
+    "room_card_primary": 'div[data-testid="roomCard"]',      # Selector utama
+    "room_card_fallback": 'div[data-testid="kostRoomCard"]', # Selector fallback
     "room_name": ".detail-title__room-name",
     "gender": ".detail-kost-overview__gender-box",
     "area": ".detail-kost-overview__area-text",

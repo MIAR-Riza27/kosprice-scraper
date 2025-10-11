@@ -7,9 +7,10 @@ from typing import List, Dict
 def safe_get_text(page, selector: str) -> str:
     """Safely get text from selector"""
     try:
-        element = page.locator(selector).first
-        if element.count() > 0:
-            return element.inner_text().strip()
+        el = page.query_selector(selector)
+        if el:
+            text = el.inner_text().strip()
+            return text if text else ""
         return ""
     except Exception:
         return ""

@@ -3,10 +3,12 @@ import json
 import time
 import random
 from datetime import datetime
+import glob
 
 
 def backup_region(region_results, region, backup_round, backup_folder):
     """Backup otomatis data region setiap interval tertentu."""
+    os.makedirs(backup_folder, exist_ok=True)  # Ensure folder exists
     backup_path = f"{backup_folder}/{region}_{backup_round}.json"
     with open(backup_path, "w", encoding="utf-8") as f:
         json.dump(region_results, f, ensure_ascii=False, indent=2)
@@ -15,6 +17,7 @@ def backup_region(region_results, region, backup_round, backup_folder):
 
 def save_region(region_results, region, regions_folder):
     """Simpan data region setelah selesai scraping."""
+    os.makedirs(regions_folder, exist_ok=True)  # Ensure folder exists
     region_path = f"{regions_folder}/{region}.json"
     with open(region_path, "w", encoding="utf-8") as f:
         json.dump(region_results, f, ensure_ascii=False, indent=2)
@@ -28,6 +31,40 @@ def save_failed_cards(failed_cards_info, region, failed_cards_folder):
     with open(failed_path, "w", encoding="utf-8") as f:
         json.dump(failed_cards_info, f, ensure_ascii=False, indent=2)
     print(f"      * [Failed cards saved: {failed_path}]")
+
+
+def generate_master_file(regions_folder, data_dir, master_file):
+    """
+    Generate master file dari semua region files yang ada.
+    Ini memastikan master file selalu up-to-date tanpa data loss.
+    """
+    os.makedirs(data_dir, exist_ok=True)  # Ensure folder exists
+    
+    all_data = []
+    region_files = glob.glob(f"{regions_folder}/*.json")
+    
+    print(f"\n  * [Generating master file from {len(region_files)} region files...]")
+    
+    for region_file in region_files:
+        try:
+            with open(region_file, "r", encoding="utf-8") as f:
+                region_data = json.load(f)
+                if isinstance(region_data, list):
+                    all_data.extend(region_data)
+                    region_name = os.path.basename(region_file).replace('.json', '')
+                    print(f"    * [Added {len(region_data)} records from {region_name}]")
+                else:
+                    print(f"    X [Invalid format in {region_file}]")
+        except Exception as e:
+            print(f"    X [Error reading {region_file}: {e}]")
+    
+    # Save master file
+    master_path = f"{data_dir}/{master_file}"
+    with open(master_path, "w", encoding="utf-8") as f:
+        json.dump(all_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"  * [Master file generated: {len(all_data)} total records → {master_path}]")
+    return len(all_data)
 
 
 def scrape_card_detail(card, page, scroll_pause, selectors, parse_utils):
